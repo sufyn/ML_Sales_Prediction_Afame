@@ -37,6 +37,12 @@ This repository provides code for predicting sales using machine learning, consi
 * Feature importance scores and visualizations (optional) will be displayed if the optimized model is a Random Forest.
 * The predicted sales value for the provided new data point will be printed.
 
+![image](https://github.com/sufyn/ML_Sales_Prediction_Afame/assets/97327266/01923c4f-0372-4de0-8318-75ff7986a8b4)
+
+![image](https://github.com/sufyn/ML_Sales_Prediction_Afame/assets/97327266/444eded4-3e80-490e-b498-3b8d5325fb7f)
+
+![image](https://github.com/sufyn/ML_Sales_Prediction_Afame/assets/97327266/f6773e3f-e41a-440a-9eb1-fa8ffe3a7b6a)
+
 **Further Exploration**
 
 * Experiment with different machine learning algorithms.
